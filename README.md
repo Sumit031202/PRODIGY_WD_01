@@ -24,8 +24,6 @@ Check out the live version here: [Live Site](https://prodigy-sumit-01.vercel.app
 - `style.css` – Styling for layout and responsiveness
 - `script.js` – JavaScript for scroll and hover interactivity
 
-## 📸 Preview
-![Screenshot](screenshot.png) *(optional: upload an image)*
 
 ## 🔗 GitHub Repository
 [https://github.com/Sumit031202/PRODIGY_WD_01](https://github.com/Sumit031202/PRODIGY_WD_01)
